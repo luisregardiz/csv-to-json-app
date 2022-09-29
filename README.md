@@ -36,7 +36,7 @@ You need to have Node.js installed
 
 Clone the repo
    ```sh
-   https://github.com/
+   https://github.com/luisregardiz/fullstack-toolbox
    ```
 
 #### Backend
