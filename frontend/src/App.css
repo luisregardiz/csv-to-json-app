@@ -1,0 +1,14 @@
+.title-table-container {
+    margin-top: 2rem;
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+.spinner-wrapper {
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+

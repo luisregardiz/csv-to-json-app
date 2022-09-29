@@ -1,0 +1,23 @@
+.form-group-wrapper {
+    max-width: 400px;
+    margin: 1.5rem 0;
+}
+
+.form-group-wrapper > label {
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.input-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.input-wrapper > input {
+    margin-right: 10px;
+}
+
+.input-wrapper > button {
+    margin-left: 10px;
+    font-weight: 500;
+}
