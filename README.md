@@ -87,4 +87,4 @@ Clone the repo
 
 ## License
 
-[MIT License](README.md) - [Daniel Sousa](https://github.com/luisregardiz)
+[MIT License](README.md) - [Luis Garcia](https://github.com/luisregardiz)
